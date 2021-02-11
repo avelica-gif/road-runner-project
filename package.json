@@ -1,0 +1,23 @@
+{
+  "name": "road-runner-project",
+  "version": "0.0.1",
+  "description": "office hours practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avelica-gif/road-runner-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avelica-gif/road-runner-project/issues"
+  },
+  "homepage": "https://github.com/avelica-gif/road-runner-project#readme",
+  "dependencies": {
+    "eslint": "^7.19.0",
+    "express": "^4.17.1"
+  }
+}
